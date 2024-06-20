@@ -29,6 +29,7 @@ Skaven, 1992.
 - HTML & Javascript (Knowledgable, unpreferable.)
 - CSharp (Learning; Unity pet projects)
 - LUA (Vaguer knowledge - rusty.)
+
 🪴 I am always looking to learn new languages! I consider myself to be a fast learner, and can understand most programming languages fast once I get the hang of them.
 
 🌴 Fun facts!
