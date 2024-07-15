@@ -14,6 +14,7 @@ Skaven, 1992.
   - Always looking to expand knowledge on languages.
 - Modder
   - For Left 4 Dead 2 (Vscript / Squirrel)
+  - Java (Minecraft, primarily.)
   - Briefly in Garry's Mod and other LUA-using titles.
 - "Hobbyist" Game Developer
   - Using Unity (CSharp)
